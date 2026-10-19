@@ -1,0 +1,3 @@
+[submodule "rrl_completeness"]
+	path = rrl_completeness
+	url = https://github.com/LAPIS-2026/rrl_completeness.git
