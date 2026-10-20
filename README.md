@@ -2,8 +2,9 @@
 
 Repositorio de materiales y códigos para el práctico de la Profesora Cecilia Mateu (*RR Lyrae stars: Lessons and outlook from the Milky Way to the Local Group*) en la escuela de astrofísica **XII LAPIS 2026**.
 
-## Proyecto y Datos
+## Proyecto, Diapositivas y Datos
 
+- **Diapositivas y materiales (Google Drive)**: [Ver carpeta en Google Drive](https://drive.google.com/drive/u/0/folders/1ArC4iekUK7uhqotDg8N4PXDWI9H89S-L)
 - **Proyecto**: Exploración de la estructura tridimensional de la Vía Láctea y las Nubes de Magallanes (LMC/SMC) usando estimadores no paramétricos de densidad de estrellas RR Lyrae, corrección por función de selección/completitud y búsqueda de la estela gravitacional de la LMC.
 - **Datos y catálogos**: Serán provistos por la profesora.
 
